@@ -13,4 +13,6 @@ Le travail demandé consistait d’abord à définir clairement les repères et 
 
 Dans un second temps, ces modèles théoriques devaient être résolus numériquement afin de simuler le mouvement du véhicule sur l’ensemble du circuit. Les résultats obtenus par simulation permettaient d’estimer les vitesses, les temps de parcours et les grandeurs physiques clés à chaque étape. Enfin, une comparaison devait être effectuée entre les différents modèles de voitures et, lorsque cela était possible, entre les résultats théoriques et des mesures expérimentales, afin de valider la pertinence des hypothèses et des calculs.
 
+<img width="1913" height="988" alt="image" src="https://github.com/user-attachments/assets/f14c7cfb-0f4c-47ac-a246-11e4263c8ad8" />
+
 Les acquis d’apprentissage principaux portent sur la maîtrise des outils fondamentaux de la mécanique du point, la capacité à modéliser un phénomène physique réel à partir d’un énoncé complexe, et l’aptitude à passer d’un modèle analytique à une simulation numérique exploitable. Le projet a également renforcé la compréhension des liens entre théorie et pratique, l’analyse critique des résultats, ainsi que les compétences en présentation scientifique et en justification des choix de modélisation.
