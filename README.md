@@ -1,6 +1,7 @@
 # CESI_Mechanics_Project_FAST-FURIOUS
 Une course se déroulera sur un circuit divisé en plusieurs parties :  Nous aurons 3 surfaces planes horizontales , une surface plane inclinée, un looping et un ravin divisant deux des surfaces planes horizontales.
 
+![LIVRABLE2headpage](https://github.com/user-attachments/assets/fee8d601-8918-4cab-a7d8-19c63b0c660a)
 
 
 Ce projet avait pour objectif de réaliser une étude physique complète du mouvement d’une voiture sur un circuit complexe afin de déterminer si un modèle donné pouvait terminer la course dans les meilleures conditions, sans endommager le véhicule et en respectant des contraintes de performance. À partir d’un scénario inspiré d’une course de type Fast & Furious, il s’agissait d’analyser théoriquement le comportement d’une voiture sur une piste composée d’une rampe d’élan, d’un looping, d’un saut au-dessus d’un ravin et d’une portion finale horizontale.
